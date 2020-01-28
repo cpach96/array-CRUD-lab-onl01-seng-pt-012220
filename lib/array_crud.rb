@@ -41,7 +41,7 @@ def retrieve_element_from_index(array, index_number)
   
   array_test = ["am" , "ready"]
   
-  array_test(0)
+  array_test[0]
   
 end
 
