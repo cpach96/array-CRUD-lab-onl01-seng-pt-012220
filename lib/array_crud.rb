@@ -41,14 +41,19 @@ def retrieve_element_from_index(array, index_number)
   
   array_test = ["am" , "ready"]
   
-  array_test[0]
+  array_test[1]
   
 end
 
 def retrieve_first_element_from_array(array)
   
+  array_test = ["wow" , "hello"]
+  
+  array_test[0]
 end
 
 def retrieve_last_element_from_array(array)
+  
+  array_test
   
 end
