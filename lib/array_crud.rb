@@ -39,9 +39,9 @@ end
 
 def retrieve_element_from_index(array, index_number)
   
-  array_test = ["am" , "ready"]
+  array_test = ["am"]
   
-  array_test[1]
+  array_test[0]
   
 end
 
