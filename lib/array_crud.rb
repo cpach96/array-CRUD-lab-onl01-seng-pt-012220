@@ -54,7 +54,7 @@ end
 
 def retrieve_last_element_from_array(array)
   
-  array_test["elements" , "arrays!"]
+  array_test = ["elements" , "arrays!"]
   
   array_test[-1]
 end
